@@ -1,0 +1,3 @@
+libface_landmark.arcsoft.so
+libFacialStickerEngine.arcsoft.so
+lib_pet_detection.arcsoft.so

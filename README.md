@@ -1,0 +1,14 @@
+# a02ins-user 10 QP1A.190711.020 M022GXXU2AUH1 release-keys
+- manufacturer: 
+- platform: mt6739
+- codename: a02
+- flavor: a02ins-user
+- release: 10
+- id: QP1A.190711.020
+- incremental: M022GXXU2AUH1
+- tags: release-keys
+- fingerprint: samsung/a02ins/a02:10/QP1A.190711.020/M022GXXU2AUH1:user/release-keys
+- is_ab: false
+- brand: samsung
+- branch: a02ins-user-10-QP1A.190711.020-M022GXXU2AUH1-release-keys
+- repo: samsung_a02_dump
